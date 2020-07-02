@@ -1,6 +1,1 @@
-#Direct CS
 *.* linguist-language=cs
-#*.cs linguist-detectable=true
-#*.java linguist-detectable=false
-#*.asm linguist-detectable=false 
-#*.cpp linguist-detctable=false
