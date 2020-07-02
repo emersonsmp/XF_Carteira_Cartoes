@@ -1,0 +1,15 @@
+C:\GitHub\ProjetoToLearn\xamarinforms-wallet-creditcard-master\XFWallet\XFWallet\bin\Debug\netstandard2.0\XFWallet.deps.json
+C:\GitHub\ProjetoToLearn\xamarinforms-wallet-creditcard-master\XFWallet\XFWallet\bin\Debug\netstandard2.0\XFWallet.dll
+C:\GitHub\ProjetoToLearn\xamarinforms-wallet-creditcard-master\XFWallet\XFWallet\bin\Debug\netstandard2.0\ref\XFWallet.dll
+C:\GitHub\ProjetoToLearn\xamarinforms-wallet-creditcard-master\XFWallet\XFWallet\bin\Debug\netstandard2.0\XFWallet.pdb
+C:\GitHub\ProjetoToLearn\xamarinforms-wallet-creditcard-master\XFWallet\XFWallet\obj\Debug\netstandard2.0\XFWallet.csprojAssemblyReference.cache
+C:\GitHub\ProjetoToLearn\xamarinforms-wallet-creditcard-master\XFWallet\XFWallet\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\ProjetoToLearn\xamarinforms-wallet-creditcard-master\XFWallet\XFWallet\obj\Debug\netstandard2.0\Views\AddCreditCardPage.xaml.g.cs
+C:\GitHub\ProjetoToLearn\xamarinforms-wallet-creditcard-master\XFWallet\XFWallet\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\GitHub\ProjetoToLearn\xamarinforms-wallet-creditcard-master\XFWallet\XFWallet\obj\Debug\netstandard2.0\XFWallet.AssemblyInfoInputs.cache
+C:\GitHub\ProjetoToLearn\xamarinforms-wallet-creditcard-master\XFWallet\XFWallet\obj\Debug\netstandard2.0\XFWallet.AssemblyInfo.cs
+C:\GitHub\ProjetoToLearn\xamarinforms-wallet-creditcard-master\XFWallet\XFWallet\obj\Debug\netstandard2.0\XFWallet.csproj.CoreCompileInputs.cache
+C:\GitHub\ProjetoToLearn\xamarinforms-wallet-creditcard-master\XFWallet\XFWallet\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GitHub\ProjetoToLearn\xamarinforms-wallet-creditcard-master\XFWallet\XFWallet\obj\Debug\netstandard2.0\XFWallet.dll
+C:\GitHub\ProjetoToLearn\xamarinforms-wallet-creditcard-master\XFWallet\XFWallet\obj\Debug\netstandard2.0\ref\XFWallet.dll
+C:\GitHub\ProjetoToLearn\xamarinforms-wallet-creditcard-master\XFWallet\XFWallet\obj\Debug\netstandard2.0\XFWallet.pdb
